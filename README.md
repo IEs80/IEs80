@@ -1,5 +1,7 @@
 ## Hi there 👋
+I'm, an Electronics Engeneerning student at UTN, Buenos Aires, Argentina; I have experience in low and high level programming. I've have always been passionate about coding and solving real life problems through it!
 
+I'm interested by the potential of Web3 and decentralized technologies and would like to explore, and build projects that emphasize security, confidentiality and efficiency
 <!--
 **IEs80/IEs80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
